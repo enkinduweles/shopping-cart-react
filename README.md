@@ -25,15 +25,6 @@ Através do projeto base, criar as seguintes funcionalidades
 - Adicionar ou remover quantidades de um produto
 - Validar ação de adicionar produto com base no valor em estoque
 
-## Rodando o app
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com),
-[Node](https://nodejs.dev/),
-[Yarn](https://yarnpkg.com/).
-
-Além disto é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">VsCode</a>.
-
 ## Tecnologias
 
 - [React](https://reactjs.org/)
